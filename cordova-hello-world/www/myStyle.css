@@ -1,0 +1,27 @@
+body{
+  background-color: pink;
+}
+h1{
+  font-family: fantasy;
+  text-align: center;
+}
+
+.picture_container{
+  text-align: center;
+}
+.picture_container img{
+  width: 480px;
+}
+
+.description_container{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.description_container p{
+  font-family: Arial;
+}
+
+button{
+  margin-left: 10px;
+}
